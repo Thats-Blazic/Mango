@@ -158,7 +158,7 @@ const Community = () => {
         {/* Social Media Buttons */}
         <div className="fixed bottom-6 right-24 flex gap-4 z-50">
           <motion.a
-            href="https://t.me/+03JgGjTc65FmZWRk"
+            href="https://t.me/blorpfrogcrypto"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 bg-white/10 hover:bg-white/20 rounded-full backdrop-blur-sm border border-white/30 transition-colors"
