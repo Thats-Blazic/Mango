@@ -131,7 +131,7 @@ const Community = () => {
               transition={{ delay: 0.6 }}
             >
               <a 
-                href="https://t.me/+03JgGjTc65FmZWRk" 
+                href="https://t.me/blorpfrogcrypto" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="px-8 py-4 bg-white/10 text-white rounded-full text-lg hover:bg-white/20 transition-colors font-medium backdrop-blur-sm border border-white/30"
